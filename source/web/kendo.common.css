@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>404</title>
+	<style>
+		body{
+			background:url(404.png) top center no-repeat;
+		}
+		.content-thongbao{
+			text-align: center;
+			padding-top: 450px;
+			font-size: 20px;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<div class="content-thongbao"></div>
+</body>
+</html>
